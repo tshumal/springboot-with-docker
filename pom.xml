@@ -55,7 +55,7 @@
                     <finalName>springboot-with-docker</finalName>
                 </configuration>
             </plugin>
-            <plugin>
+            <!--<plugin>
                 <groupId>com.spotify</groupId>
                 <artifactId>docker-maven-plugin</artifactId>
                 <version>0.4.11</version>
@@ -70,7 +70,7 @@
                         </resource>
                     </resources>
                 </configuration>
-            </plugin>
+            </plugin>-->
             <!--<plugin>
                 <groupId>io.fabric8</groupId>
                 <artifactId>fabric8-maven-plugin</artifactId>
